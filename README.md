@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Engineer - Full Stack Developer at @adwise - **#PHP #Laravel #Ruby #Rails #Javascript #Vue #SQL** - 🇨🇴🇨🇱🇺🇸🇨🇼🇺🇾
+Software Engineer at @solvoglobal
 
 #### About me
 - [🔗 Web Page](https://www.oswaldomontes.com)
